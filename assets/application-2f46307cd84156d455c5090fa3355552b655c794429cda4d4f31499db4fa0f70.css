@@ -6665,28 +6665,28 @@ blockquote {
 .top-left {
   background-size: 160px 160px;
   background-position: top left;
-  background-image: url(/images/corners/top-left.png);
+  background-image: url(images/corners/top-left.png);
 }
 
 /* line 6, /Users/pain/Sites/raw/app/assets/stylesheets/layout/_corners.sass */
 .top-right {
   background-size: 160px 160px;
   background-position: top right;
-  background-image: url(/images/corners/top-right.png);
+  background-image: url(images/corners/top-right.png);
 }
 
 /* line 11, /Users/pain/Sites/raw/app/assets/stylesheets/layout/_corners.sass */
 .bottom-left {
   background-size: 160px 160px;
   background-position: bottom left;
-  background-image: url(/images/corners/bottom-left.png);
+  background-image: url(images/corners/bottom-left.png);
 }
 
 /* line 16, /Users/pain/Sites/raw/app/assets/stylesheets/layout/_corners.sass */
 .bottom-right {
   background-size: 160px 160px;
   background-position: bottom right;
-  background-image: url(/images/corners/bottom-right.png);
+  background-image: url(images/corners/bottom-right.png);
 }
 
 /* line 1, /Users/pain/Sites/raw/app/assets/stylesheets/layout/_head.sass */
