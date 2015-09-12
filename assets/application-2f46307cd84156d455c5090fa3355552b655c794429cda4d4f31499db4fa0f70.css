@@ -5094,38 +5094,38 @@ hr {
    - Gray Scale
 
 */
-/* Basscss Background Images */
-/* line 10, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-images.scss */
+/* Basscss Background ../images */
+/* line 10, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-../images.scss */
 .bg-cover {
   background-size: cover;
 }
 
-/* line 11, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-images.scss */
+/* line 11, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-../images.scss */
 .bg-contain {
   background-size: contain;
 }
 
-/* line 13, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-images.scss */
+/* line 13, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-../images.scss */
 .bg-center {
   background-position: center;
 }
 
-/* line 14, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-images.scss */
+/* line 14, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-../images.scss */
 .bg-top {
   background-position: top;
 }
 
-/* line 15, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-images.scss */
+/* line 15, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-../images.scss */
 .bg-right {
   background-position: right;
 }
 
-/* line 16, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-images.scss */
+/* line 16, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-../images.scss */
 .bg-bottom {
   background-position: bottom;
 }
 
-/* line 17, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-images.scss */
+/* line 17, /Users/pain/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rails-assets-basscss-sass-3.0.0/appassets/stylesheets/basscss-sass/_background-../images.scss */
 .bg-left {
   background-position: left;
 }
@@ -6665,28 +6665,28 @@ blockquote {
 .top-left {
   background-size: 160px 160px;
   background-position: top left;
-  background-image: url(images/corners/top-left.png);
+  background-image: url(../images/corners/top-left.png);
 }
 
 /* line 6, /Users/pain/Sites/raw/appassets/stylesheets/layout/_corners.sass */
 .top-right {
   background-size: 160px 160px;
   background-position: top right;
-  background-image: url(images/corners/top-right.png);
+  background-image: url(../images/corners/top-right.png);
 }
 
 /* line 11, /Users/pain/Sites/raw/appassets/stylesheets/layout/_corners.sass */
 .bottom-left {
   background-size: 160px 160px;
   background-position: bottom left;
-  background-image: url(images/corners/bottom-left.png);
+  background-image: url(../images/corners/bottom-left.png);
 }
 
 /* line 16, /Users/pain/Sites/raw/appassets/stylesheets/layout/_corners.sass */
 .bottom-right {
   background-size: 160px 160px;
   background-position: bottom right;
-  background-image: url(images/corners/bottom-right.png);
+  background-image: url(../images/corners/bottom-right.png);
 }
 
 /* line 1, /Users/pain/Sites/raw/appassets/stylesheets/layout/_head.sass */
